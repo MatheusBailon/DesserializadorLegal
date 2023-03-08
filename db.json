@@ -16,6 +16,28 @@
                 "userId": "compadmin"
             }
         ],
-        "__next": "https://wasd.com/"
+        "__next": "https://my-json-server.typicode.com/matheusbailon/DesserializadorLegal/j"
+    }
+}
+
+{
+    "j": {
+        "results": [
+            {
+                "__metadata": {
+                    "uri": "https://wasd.com/odata/v2/User('adminNLS')",
+                    "type": "SFOData.User"
+                },
+                "userId": "adminNLS"
+            },
+            {
+                "__metadata": {
+                    "uri": "https://wasd..com/odata/v2/User('compadmin')",
+                    "type": "SFOData.User"
+                },
+                "userId": "compadmin"
+            }
+        ],
+        "__next": ""
     }
 }
